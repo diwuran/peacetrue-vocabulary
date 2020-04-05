@@ -1,0 +1,5 @@
+rootProject.name = "peacetrue-vocabulary"
+include("peacetrue-vocabulary-service-api")
+include("peacetrue-vocabulary-service-mybatis")
+include("peacetrue-vocabulary-controller")
+include("peacetrue-vocabulary-sample")
